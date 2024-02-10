@@ -1,0 +1,31 @@
+.card {
+  border: 1px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+//  scss is a fanciar brother of css
+// I would provide you with some enhancements and properties on top of css
+// Scss is not understood by html or by browser
+// only css is understood
+// scss is converted into css and that is added into browser
+// scss conversion is done by webpack for you
+// css
+// .parent { font-size: 10px;}
+// .parent .child {font-size: 12px;}
+// .parent .child. gc {font-size: 14px;}
+// .parent .child2 {font-size: 16px;}
+
+// $var-size : 10px
+// .parent {
+//     font-size: $var-size;
+//     .child {
+//         font-size: 12px;
+//         .gc {
+//             font-size: 14px;
+//         }
+//     }
+//     .child2 {
+//         font-size: 16px;
+//     }
+// }
