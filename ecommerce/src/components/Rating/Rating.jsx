@@ -1,7 +1,7 @@
 import Icon from "@mdi/react";
 import { mdiStar } from "@mdi/js";
 import "./Rating.scss";
-
+import React from 'react';
 // loop
 // yellow if (rating >= index+1)
 // 3 >= 1 Yellow true

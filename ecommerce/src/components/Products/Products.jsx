@@ -3,7 +3,7 @@ import ProductCard from "../ProductCard";
 import Categories from "../Categories";
 import useWindowSize from "../../hooks/useWindowSize";
 import { Link } from "react-router-dom";
-
+import React from 'react';
 const gp = [
   {
     title: "Apple iPhone 14",

@@ -1,4 +1,5 @@
 import "./ProductCard.scss";
+import React from 'react';
 import ReduxAddToCart from "../ReduxAddToCart";
 import Rating from "../Rating";
 export default function ProductCard({ product }) {

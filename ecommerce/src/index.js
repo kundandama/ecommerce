@@ -3,7 +3,7 @@ import store from "./stores/index.js";
 import { Provider } from "react-redux";
 // import { d, a } from "./App";
 import { BrowserRouter } from "react-router-dom";
-
+import React from 'react';
 import App from "./App";
 
 // console.log(d, a);
